@@ -1,0 +1,4 @@
+streamlit==0.78.0
+numpy
+pandas
+PIL
